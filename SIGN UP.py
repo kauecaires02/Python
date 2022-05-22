@@ -20,4 +20,4 @@ while True:
     if eventos == 'entry':
         if value['user'] == 'kaue' and value['password']
         == '123456':
-            print('welcome to Truwhpyco.')
+            print('welcome to Trewhpyco.')
